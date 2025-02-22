@@ -14,7 +14,7 @@
   <a href="https://www.youtube.com/@GhostdevilGaming">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="www.linkdin.com/in/krishnendu-adhikaryhttps://youtu.be/zJE-ze4TfXc?si=S92SiQZIBSWAhy7y/" target="_blank">
+  <a href="[www.linkdin.com/in/krishnendu-adhikaryhttps://youtu.be/zJE-ze4TfXc?si=S92SiQZIBSWAhy7y/" target="_blank](https://www.linkedin.com/in/krishnendu-adhikary-879787296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
    <a href="Instagram.com/zx__krishnendu/">
